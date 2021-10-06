@@ -1,2 +1,2 @@
-# CodeRepo
-Everything from Google Colab
+# Visualization 
+matplotlib plot sin() and cos()
